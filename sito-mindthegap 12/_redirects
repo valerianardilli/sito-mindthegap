@@ -1,0 +1,4 @@
+# Netlify — reindirizzamenti
+# Il dominio senza www va su www (coerenza con gli indirizzi già indicizzati)
+http://mindthegapagency.com/*   https://www.mindthegapagency.com/:splat   301!
+https://mindthegapagency.com/*  https://www.mindthegapagency.com/:splat   301!
